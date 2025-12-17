@@ -8,14 +8,14 @@
 Была разработана система координат, которая позволяет точно позиционировать все атомы, их взаимосвязи и дислокацию. Это дало возможность чётко определять местоположение каждого элемента в любой момент времени деформации. Это позволило создать предварительную раскадровку, с помощью которой был написан код.
 
 Пример данной системы координат представлен ниже:
-images/
-├── <img width="714" height="233" alt="S1" src="https://github.com/user-attachments/assets/3f46d9f0-c38b-4570-9ea2-f5293f63c1c0" />
 
-├── <img width="722" height="234" alt="S2" src="https://github.com/user-attachments/assets/64592716-ce94-40bf-a9ba-a2017b433491" />
+ <img width="714" height="233" alt="S1" src="https://github.com/user-attachments/assets/3f46d9f0-c38b-4570-9ea2-f5293f63c1c0" />
 
-├── <img width="714" height="231" alt="S3" src="https://github.com/user-attachments/assets/322d0d55-3e4b-4779-8a84-2c75ed121e8e" />
+ <img width="722" height="234" alt="S2" src="https://github.com/user-attachments/assets/64592716-ce94-40bf-a9ba-a2017b433491" />
 
-├── <img width="721" height="238" alt="S4" src="https://github.com/user-attachments/assets/1055a2a3-e776-4833-8208-2bd5bb06e124" />
+ <img width="714" height="231" alt="S3" src="https://github.com/user-attachments/assets/322d0d55-3e4b-4779-8a84-2c75ed121e8e" />
+
+ <img width="721" height="238" alt="S4" src="https://github.com/user-attachments/assets/1055a2a3-e776-4833-8208-2bd5bb06e124" />
 
 ## Описание кода
 
