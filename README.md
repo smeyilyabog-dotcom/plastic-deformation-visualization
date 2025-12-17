@@ -70,10 +70,10 @@
 
 ## 🧩 Результаты 
 
-<img width="454" height="222" alt="A4" src="https://github.com/user-attachments/assets/96f61583-0c03-4ff9-b5e7-9335f7902fa6" />
-<img width="376" height="211" alt="A3" src="https://github.com/user-attachments/assets/2a0c178a-0df9-4f88-878a-ea538cea5952" />
-<img width="389" height="209" alt="A2" src="https://github.com/user-attachments/assets/a1aadfa9-4f38-4322-bd2b-6cd00a0d98fd" />
 <img width="376" height="216" alt="A1" src="https://github.com/user-attachments/assets/d3a4bde6-020f-4721-a133-3c303ae084ae" />
+<img width="389" height="209" alt="A2" src="https://github.com/user-attachments/assets/a1aadfa9-4f38-4322-bd2b-6cd00a0d98fd" />
+<img width="376" height="211" alt="A3" src="https://github.com/user-attachments/assets/2a0c178a-0df9-4f88-878a-ea538cea5952" />
+<img width="454" height="222" alt="A4" src="https://github.com/user-attachments/assets/96f61583-0c03-4ff9-b5e7-9335f7902fa6" />
 
 
 ## 🧩 Обозначения
