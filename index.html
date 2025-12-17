@@ -1,83 +1,12 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Пластическая деформация кристалла | p5.js</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #f9f9f9;
-            color: #333;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        .container {
-            max-width: 1000px;
-            margin: auto;
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        #sketch-holder {
-            display: flex;
-            justify-content: center;
-            margin: 20px 0;
-        }
-        .instruction {
-            background: #e8f4fc;
-            padding: 15px;
-            border-left: 5px solid #3498db;
-            margin: 20px 0;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 3px;
-            font-family: 'Courier New', monospace;
-        }
-    </style>
+    <title>Plastic deformation visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.7.0/lib/p5.min.js"></script>
 </head>
 <body>
-    <div class="container">
-        <h1>Визуализация пластической деформации кристалла</h1>
-        <p>Интерактивная модель движения дислокации в кристаллической решетке с использованием p5.js</p>
-        
-        <div id="sketch-holder"></div>
-        
-        <div class="instruction">
-            <strong>Управление:</strong> Нажмите <kbd>Пробел</kbd> для перемещения дислокации на следующую позицию.
-        </div>
-        
-        <h2>Описание проекта</h2>
-        <p>Данная визуализация демонстрирует процесс пластической деформации в кристаллической решетке. Моделируется движение краевой дислокации через кристалл, что приводит к сдвигу атомных слоев.</p>
-        
-        <h2>Технические детали</h2>
-        <ul>
-            <li><strong>Библиотека:</strong> p5.js (2D-режим)</li>
-            <li><strong>Структура кода:</strong> Используются массивы, циклы, условные операторы, функции</li>
-            <li><strong>Управление:</strong> Интерактивное (клавиша Пробел)</li>
-            <li><strong>Обозначения:</strong>
-                <ul>
-                    <li>🔵 Синие круги — атомы кристалла</li>
-                    <li>❌ Красный крест — дислокация</li>
-                    <li>⚫ Черные линии — связи между атомами</li>
-                </ul>
-            </li>
-        </ul>
-        
-        <h2>Автор</h2>
-        <p>Проект выполнен в рамках учебного задания по материаловедению.</p>
-        
-        <h2>Исходный код</h2>
-        <p>Код доступен в файле <a href="sketch.js">sketch.js</a> и на <a href="https://github.com/ваш-логин/plastic-deformation-visualization">GitHub</a>.</p>
-    </div>
-
     <script src="sketch.js"></script>
 </body>
 </html>
